@@ -18,11 +18,11 @@ A modern Android weather application built with Kotlin and Jetpack Compose that 
   - UV index
 
 ## Screenshots
-
+![Screenshot_20241230_092116.png](screenshots/Screenshot_20241230_092116.png)
 <div align="center">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="250"/>
-  <img src="screenshots/search_screen.png" alt="Search Screen" width="250"/>
-  <img src="screenshots/weather_details.png" alt="Weather Details" width="250"/>
+  <img src="screenshots/Screenshot_20241230_092013.png" alt="Home Screen" width="250"/>
+  <img src="screenshots/Screenshot_20241230_092048.png" alt="Search Screen" width="250"/>
+  <img src="screenshots/Screenshot_20241230_092132.png" alt="Weather Details" width="250"/>
 </div>
 
 ## Tech Stack
