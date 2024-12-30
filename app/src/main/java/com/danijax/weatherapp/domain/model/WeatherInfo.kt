@@ -1,4 +1,10 @@
 package com.danijax.weatherapp.domain.model
 
-class WeatherInfo {
-}
+data class WeatherInfo(
+    val cityName: String,
+    val temperature: Double,
+    val condition: String,
+    val humidity: Int,
+    val uv: Double,
+    val iconUrl: String
+)
