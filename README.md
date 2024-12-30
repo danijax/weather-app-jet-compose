@@ -107,6 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@dannyjayali](https://twitter.com/dannyjayali)
 
-Project Link: [https://github.com/yourusername/weather-tracker](https://github.com/yourusername/weather-tracker)
+Project Link: [https://github.com/danijax/weather-app-jet-compose](https://github.com/danijax/weather-app-jet-compose)
