@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Weather Tracker</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="search">Search Location</string>
 </resources>
